@@ -3,7 +3,7 @@ import Header from './components/Header.jsx'
 import Footer from './components/Footer.jsx'
 import Catalog from './pages/Catalog.jsx'
 import About from './pages/About.jsx'
-import Contact from './pages/contact.jsx'
+import Contact from './pages/Contact.jsx'
 import './App.css'
 
 function App() {
